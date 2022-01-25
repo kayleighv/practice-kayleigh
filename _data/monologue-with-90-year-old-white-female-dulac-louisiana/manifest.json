@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Monologue with 90 year old white female, Dulac, Louisiana" ] },
+    "homepage": [
+      {
+        "id": "https://www.loc.gov/item/afccal000251/",
+        "type": "Text",
+        "label": { "en": [ "Monologue with 90 year old white female, Dulac, Louisiana" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://lccn.loc.gov/2008700387",
+        "type": "Agent",
+        "label": { "en": [ "Center for Applied Linguistics collection (AFC 1986/022), American Folklife Center, Library of Congress" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 184.0,
+        "items": [
+          {
+            "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://tile.loc.gov/storage-services/media/afc/cal/afc1986022_sr38b05.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 184.0
+                },
+                "target": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
