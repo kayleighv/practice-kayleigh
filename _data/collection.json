@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Practice Project - Kayleigh" ] },
+    "summary": { "en": [ "My first shot at making an AudiAnnotate project" ] },
+    "items": [
+    ]
+}
