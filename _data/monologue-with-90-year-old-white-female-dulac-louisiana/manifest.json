@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/context.json",
+            "label": "Context"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/transcript.json",
             "label": "Transcript"
           }

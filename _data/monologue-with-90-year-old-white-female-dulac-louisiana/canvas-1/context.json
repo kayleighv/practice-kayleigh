@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/context.json",
+  "type": "AnnotationPage",
+  "label": "Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This personal narrative was collected by Joseph Mele sometime between 1975 and 1980.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.000000"
+        }
+      }
+    }
+  ]
+}
