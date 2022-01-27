@@ -23,6 +23,14 @@
         "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas",
         "type": "Canvas",
         "duration": 184.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/transcript.json",
+            "label": "Transcript"
+          }
+        ],
         "items": [
           {
             "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/paintings",

@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well, I just want to start when I was, when my grandfather come on a ship, and he land in Dulac, in Dulac, in Terrebonne Parish.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,13.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And he didn't go back on the ship, he stayed there and he married my grandmother.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.000000,19.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas/transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Which, then, my, my, that was my grandfather, then my grandmother was a Spanish and my grandfather was Italian.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/practice-kayleigh/monologue-with-90-year-old-white-female-dulac-louisiana/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.000000,30.000000"
+        }
+      }
+    }
+  ]
+}
